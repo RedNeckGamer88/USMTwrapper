@@ -44,10 +44,10 @@ Restore Process
   *  Enter the name or IP address of the destination PC. 
   *  Select the user profiles to restore. 
   *  The script will: 
-    *  Check connectivity. 
-    *  Generate a remote restore script. 
-    *  Execute loadstate.exe remotely. 
-    *  Clean up temporary files. 
+  *  Check connectivity. 
+  *  Generate a remote restore script. 
+  *  Execute loadstate.exe remotely. 
+  *  Clean up temporary files. 
 
 Closing Remote Migration Processes 
 
