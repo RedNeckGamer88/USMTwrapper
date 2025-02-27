@@ -6,9 +6,9 @@ This script facilitates backing up and restoring user profiles remotely using US
 
 Prerequisites 
 
-  *  Ensure C:/tmp/PsExec.exe is present, or the script will not function. 
+  *  Ensure C:/tmp/PsExec.exe is present, or the script will not function. [https://learn.microsoft.com/en-us/sysinternals/downloads/psexec](url)
   *  PsKill.exe should be in C:/tmp for remote process termination. 
-  *  USMT tools should be accessible on the network. 
+  *  USMT tools should be accessible on the network. [https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install](url)
 
 Features 
 
