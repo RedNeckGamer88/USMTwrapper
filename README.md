@@ -52,7 +52,7 @@ Restore Process
 Closing Remote Migration Processes 
 
   *  Enter the name or IP address of the target PC. 
-  *  The script will terminate scanstate and loadstate processes remotely. 
+  *  The script will terminate scanstate and loadstate processes remotely. (this really only needs to be done if the scanstate.exe or loadstate.exe are stuck or you want to cancel them.)
 
 Error Handling 
 
