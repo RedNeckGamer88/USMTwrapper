@@ -217,7 +217,7 @@ set networklocationUSMT=\\md.local\path\to\my\profilemigrationUSMT\amd64\
 
 :: The nework location of USMT profiles (so you can see a list of profiles)
 :: example set networklocationUSMT=\\sh.locol\mydept\IT\profilemigrationUSMT\Profile
-set networkprofileloc=\\md.local\path\to\my\profilemigrationUSMT\amd64\Profile
+set networkprofileloc=\\md.local\path\to\my\profilemigrationUSMT\Profile
 
 :: The network drive letter of where the profiles will be saved. This might be somewhat complex, but it is what you can see in cmd after you pushd a networklocation.
 set profilesavelocation=Z:\mydrive\path\to\my\profilemigrationUSMT\Profile
